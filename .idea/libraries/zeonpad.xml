@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="zeonpad">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Utilidades/Zeonpad.com/zeonpadpdf_1.0/jacob-1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Utilidades/Zeonpad.com/zeonpadpdf_1.0/jacob.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Utilidades/Zeonpad.com/zeonpadpdf_1.0/zeonpadpdf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
